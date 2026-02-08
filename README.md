@@ -12,6 +12,6 @@ i love fashion, organization, and learning
 - tailwind and react
 
  ## contact me
- email: jacktracytotten09@gmail.com
- instagram: jackttracy
- discord: prome99
+ - email: jacktracytotten09@gmail.com
+ - instagram: jackttracy
+ - discord: prome99
